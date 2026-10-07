@@ -45,3 +45,7 @@ A clean and interactive web application built with Streamlit that calculates Bod
     ├── Screenshot_1.png
     ├── Screenshot_2.png
     └── Screenshot_3.png
+```
+## 📄 License
+
+This project is open-source and available under the MIT License.
