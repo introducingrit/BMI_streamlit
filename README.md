@@ -29,7 +29,7 @@ A clean and interactive web application built with Streamlit that calculates Bod
 * **Dynamic Health Classifications:**
   * 🟡 **Underweight:** BMI less than 18.5
   * 🟢 **Normal Weight:** BMI between 18.5 and 24.9 (triggers a balloon celebration screen)
-  * 🟧 **Overweight:** BMI between 25.0 and 29.9
+  * 🟡 **Overweight:** BMI between 25.0 and 29.9
   * 🔴 **Obese:** BMI 30.0 or higher
 * **Visual Status Indicators:** Color-coded alert boxes (warning, success, error) tailored to each health result.
 
